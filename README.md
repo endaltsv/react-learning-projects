@@ -1,3 +1,3 @@
-## My react learning projects.
+## React Cart
 
-# Собрал все проекты в один репозиторий. Отдельный проект -> отдельная ветка.
+The goal is to study useState, study useEffect, work with LocalStorage, familiarize yourself with memo
